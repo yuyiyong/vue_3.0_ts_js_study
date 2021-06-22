@@ -1,0 +1,15 @@
+section {
+    text-align: left;
+      display: flex;
+      justify-content: flex-start;
+      flex-wrap: wrap;
+     
+  }
+  .img_small {
+    width: 100px;
+    height: auto;
+  }
+  .section_right{
+      background: rgba(#ccf,0.1);
+      flex: 1;
+  }
